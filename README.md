@@ -8,4 +8,4 @@ From a technical standpoint, I want to leverage the ability to write asynchronou
 ## Technologies Used
 JavaScript, Node, Express, React Native, MongoDB/Mongoose.
 
-## Coding for Project will begin July 1st.
+## Coding for Project will begin July 10th.
