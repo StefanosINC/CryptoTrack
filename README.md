@@ -10,8 +10,7 @@ JavaScript, Node, Express, React Native, MongoDB/Mongoose.
 
 ## Tutorials and Small Test Projects Will begin as of 5/15/2022
 ## Diaagrams for the project will start 6/1/2022
--- React Native will be need to be learned as well. Setting assiding time will be interseting.
--- 
+
 
 ## Coding for Project will begin July 10th.
 
